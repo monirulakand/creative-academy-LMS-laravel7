@@ -1,0 +1,1 @@
+<img id="EditLoader" class="loading-icon m-5" src="{{asset('images/loader.svg')}}">
